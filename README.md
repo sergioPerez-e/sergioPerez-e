@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manusperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manusperez" height="40" width="40" /></a>
-<a href="https://gist.github.com/sergioPerez-e" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gist" height="40" width="40" /></a>
+<a href="https://gist.github.com/sergioPerez-e" target="blank"><img align="center" src="https://k9982874.gallerycdn.vsassets.io/extensions/k9982874/github-gist-explorer/0.2.3/1638842316475/Microsoft.VisualStudio.Services.Icons.Default" alt="gist" height="50" width="50" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
